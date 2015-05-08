@@ -14,11 +14,11 @@ If you want, you can grab Firefox Developer at
 https://www.mozilla.org/en-US/firefox/channel/#developer
 
 Once you have it, you can:
-    * start the WebIDE
-    * Install the simulator for Firefox OS 2.2
-    * Under Project, Open a Package Project
-    * Navigate the the "client" subdirectory
-    * Start the app by pressing the "Play" button.
+* start the WebIDE
+* Install the simulator for Firefox OS 2.2
+* Under Project, Open a Package Project
+* Navigate the the "client" subdirectory
+* Start the app by pressing the "Play" button.
 
 If you wish, you can open up the developer tools by pressing the
 "wrench" icon.
