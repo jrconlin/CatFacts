@@ -1,0 +1,9 @@
+* {padding:0; margin:0}
+html {font-family: "Fira Sans",Arial; background-color:#f9f9f9}
+h2{font-size:110%;position:absolute; top:6ex; left:-2EX;transform:rotate(-90deg);color:#ccc}
+.error {color:#c00;font-weight:bold;}
+#config {margin-left:1em;border-left:8px solid #aaf9aa;padding-left: :.5em;padding-bottom:1em;}
+#config button {border:0;padding:5px;border-radius:10px;margin-left:20px;}
+#config input {border:1px solid #ccc;padding:2px;width:12em;}
+#config label {display:inline-block;min-width:4em;}
+#status {display:block;font-family:"courier new",monospace;max-height:60%;width:100%;overflow-x:scroll;font-size:80%;}

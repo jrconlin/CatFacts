@@ -1,0 +1,22 @@
+{
+  "name": "CatFacts",
+  "description": "A Push test app",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/catfact16.png",
+    "48": "/icons/catfact48.png",
+    "60": "/icons/catfact60.png",
+    "128": "/icons/catfact128.png"
+  },
+  "origin": "app://1944f300-9b89-420d-9058-0bf4fc2a0848/",
+  "type": "privileged",
+  "permissions": {
+    "push":{"description":"Kind of the whole reason for this app."},
+    "desktop-notification":{"description":"How you get your cat fact!"}
+  },
+  "messages": {
+    "push": "/index.html",
+    "push-register": "/index.html"
+  }
+}
+
